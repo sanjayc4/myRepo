@@ -1,4 +1,4 @@
-Welcom to Sanju Kitchen
+Welcome to Sanju Kitchen
 
 Kheer
 pasta
@@ -6,3 +6,5 @@ samosa
 
 Rasagulaa
 
+
+Thanks :)
